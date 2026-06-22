@@ -25,16 +25,15 @@
     "whitelistUsers": []
   },
   "adminBot": [
-    "100087331405932",
-    "61590391333546",
-    "100065590940242"
+    "61590293567860"
+   
   ],
   "premiumUsers": [
-    "100087331405932"
+    "61590293567860"
   ],
   "devUsers": [
-    "100087331405932",
-    "61590391333546"
+    "61590293567860"
+    
   ],
   "feeCollectorUID": "100087331405932",
   "feeCollectorUID_note": "All money spent by users on commands (requiredMoney) will be added to this UID's wallet. Set to empty string to disable.",
